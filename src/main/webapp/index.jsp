@@ -101,17 +101,17 @@
 					has to choose Chef or Puppet.</p>
 			</div>
 			<div id="tabs-4">
-				<p>Motorola</p>
-				<p>Apple</p>
-				<p>Samsung</p>
-				<p>Xiaomi</p>
+				<p>Mobiles</p>
+				<p>Clothes</p>
+				<p>Shoes</p>
+				<p>Jwellery</p>
 			</div>
 		</div>
 
 	</div >
 
 	<div class="container">
-		<footer> Copyright &copy; gamutgurus software services Pvt. Ltd. </footer>
+		<footer> Copyright &copy; Dadawabale software services Pvt. Ltd. </footer>
 	</div>
 
 </body>
