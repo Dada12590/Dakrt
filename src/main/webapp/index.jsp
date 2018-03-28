@@ -27,7 +27,7 @@
 	<div class="container">
 
 		<header>
-			<h1>Dkart Retail Store : 8208556211 ...</h1>
+			<h1>Dkart Retail Store : 8208556211 </h1>
 		</header>
 
 		<div id="tabs">
